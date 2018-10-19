@@ -24,5 +24,4 @@ write markdown using vim.
 open  ip:9999/preview.md  in Chrome.
 
 ### preview
-![preview img](./preview.png)
-
+![preview img](https://raw.githubusercontent.com/zhoupro/images/master/20181019/preview.png)
